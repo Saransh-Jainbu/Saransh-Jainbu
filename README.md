@@ -3,6 +3,12 @@
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=440&lines=Software+Engineer+%7C+Web+Developer;Tech+Enthusiast+%7C+AI+Explorer;Always+Learning+%7C+Building+Cool+Stuff!" alt="Typing Animation" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saransh-Jainbu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saransh-Jainbu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
@@ -42,6 +48,13 @@
 
 ---
 
+### 🌟 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saransh-Jainbu&theme=dracula&no-frame=false&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 🌐 **Connect With Me**
 <div align="left">
   <a href="https://www.linkedin.com/in/saransh-jain-558276281/" target="_blank">
@@ -50,18 +63,29 @@
   <a href="mailto:saranshj647@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
+
+  </a>
 </div>
 
 ---
 
+### 🐍 **Snake Eating Contributions**
 <div align="center">
   <img src="https://raw.githubusercontent.com/Saransh-Jainbu/Saransh-Jainbu/output/snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
+### 📊 **Profile Views**
 <div align="center">
   <img src="https://profile-counter.glitch.me/Saransh-Jainbu/count.svg?" alt="Profile Views Counter" />
+</div>
+
+---
+
+### ✨ **Random Dev Quote**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
 </div>
 
 ---
