@@ -60,13 +60,13 @@ I am a passionate **Software Engineer** dedicated to crafting efficient, scalabl
 </div>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Saransh-Jainbu&cc=282a36&tc=f8f8f2&ic=bd93f9&theme=dracula" width="450" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saransh-Jainbu&theme=dracula" width="800" alt="Profile Details" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saransh-Jainbu&theme=dracula&no-frame=true&column=4" alt="Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saransh-Jainbu&layout=compact&theme=dracula" width="450" alt="Top Languages" />
 </div>
 
 ---
