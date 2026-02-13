@@ -6,6 +6,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=450&lines=Full-Stack+Architect;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions;Lifelong+Learner+🚀" alt="Typing Animation" />
 </p>
 
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh-Jainbu&theme=dracula&hide_border=false" width="480" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saransh-Jainbu&layout=compact&theme=dracula" width="450" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saransh-Jainbu&theme=dracula" width="850" alt="Profile Details" />
+</div>
+
+<br />
+
 <div align="center">
   <a href="https://www.linkedin.com/in/saransh-jain-558276281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -53,27 +74,6 @@ I am a passionate **Software Engineer** dedicated to crafting efficient, scalabl
 
 ---
 
-### 📊 **GitHub Statistics**
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh-Jainbu&theme=dracula&hide_border=false" width="480" alt="GitHub Streak" />
-
-
-<div align="right">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saransh-Jainbu&layout=compact&theme=dracula" width="450" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saransh-Jainbu&theme=dracula" width="800" alt="Profile Details" />
-</div>
-
-
-
-
-
----
 
 ### 🐍 **Contribution Journey**
 
