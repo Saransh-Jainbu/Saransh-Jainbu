@@ -45,8 +45,9 @@ I am a passionate **Software Engineer** dedicated to crafting efficient, scalabl
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saransh-Jainbu&show_icons=true&theme=dracula&hide_border=false" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-Jainbu&layout=compact&theme=dracula&hide_border=false" width="300" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh-Jainbu&theme=dracula&hide_border=false" width="480" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Saransh-Jainbu&cc=7C3AED&tc=ffffff&ic=7C3AED&theme=dracula" width="450" alt="GitHub Summary" />
 </div>
 
 <p align="center">
