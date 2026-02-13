@@ -48,26 +48,30 @@ I am a passionate **Software Engineer** dedicated to crafting efficient, scalabl
 ### 🛠️ **Tech Stack & Tooling**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,nodejs,py,c,aws,gcp,firebase,git,discord,vscode,postman,docker" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,nodejs,py,c,aws,gcp,firebase,git,vscode,postman,docker" alt="My Skills" />
 </div>
 
 ---
 
 ### 📊 **GitHub Statistics**
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh-Jainbu&theme=dracula&hide_border=false" width="480" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saransh-Jainbu&theme=dracula" width="800" alt="Profile Details" />
+
+<div align="right">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saransh-Jainbu&layout=compact&theme=dracula" width="450" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saransh-Jainbu&layout=compact&theme=dracula" width="450" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saransh-Jainbu&theme=dracula" width="800" alt="Profile Details" />
 </div>
+
+
+
+
 
 ---
 
